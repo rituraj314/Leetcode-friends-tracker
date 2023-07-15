@@ -16,17 +16,9 @@ LeetCode friends Tracker is a Flask-based web application that allows you to tra
 ## Installation
 
 - Clone this repository to your local machine:
-```git clone https://github.com/your-username/friends-leetcode-tracker.git```
-
-- Change into the project's directory:
-```cd friends-leetcode-tracker```
-
+  
 - Create a virtual environment:
-```python3 -m venv venv```
-
-- Activate the virtual enviornment
-- For Windows:
-```venv\Scripts\activate```
+```python -m venv myenv && myenv\Scripts\activate ```
 
 - Install the required dependencies:
 ```pip install -r requirements.txt```
