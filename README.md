@@ -18,7 +18,10 @@ LeetCode friends Tracker is a Flask-based web application that allows you to tra
 - Clone this repository to your local machine:
   
 - Create a virtual environment:
-```python -m venv myenv && myenv\Scripts\activate ```
+```python -m venv myenv```
+
+- Activate the virtual enviornment:
+```myenv\Scripts\activate ```
 
 - Install the required dependencies:
 ```pip install -r requirements.txt```
